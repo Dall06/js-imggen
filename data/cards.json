@@ -1,0 +1,166 @@
+{
+    "rewards": [
+        {
+            "id": "reward-1",
+            "content": "You finished your story early. You advance 2 squares."
+        },
+        {
+            "id": "reward-2",
+            "content": "Your test was satisfactory. You advance 2 squares."
+        },
+        {
+            "id": "reward-3",
+            "content": "You did a great teamwork today. You can roll the dices again."
+        },
+        {
+            "id": "reward-4",
+            "content": "Your team solved a bug. You can advance 1 extra square."
+        },
+        {
+            "id": "reward-5",
+            "content": "You helped your coworker on a difficult assignment. To thank you, the player immediately before you exchanges places with you."
+        },
+        {
+            "id": "reward-6",
+            "content": "The assignment you had was solved earlier than expected. You can roll the dices again."
+        },
+        {
+            "id": "reward-7",
+            "content": "The client asked for a new requirement, and you solved it correctly. You can roll doubles."
+        },
+        {
+            "id": "reward-8",
+            "content": "You were able to identify bugs from no bugs, you saved time to your team. You can advance 5 squares."
+        },
+        {
+            "id": "reward-9",
+            "content": "Did you work extra time? No way! You immediately need a reward and a slice of pizza. Go on 6 squares."
+        },
+        {
+            "id": "reward-10",
+            "content": "You documented the solution very well when fixing a bug and it can be used as a reference to fix future bugs. You can advance 3 squares."
+        },
+        {
+            "id": "reward-11",
+            "content": "As a Scrum Master you organized the daily and a developer decided to ignore the email with the notification, he failed the meeting, so he/she/they are/is going to have a punishment. Select a player that will lose a turn."
+        },
+        {
+            "id": "reward-12",
+            "content": "You have achieved all your objectives in time in the project, roll one dice again and advance double the number obtained."
+        },
+        {
+            "id": "reward-13",
+            "content": "In the sprint review all the team congratulates you for having good results during the sprint, you can advance 2 squares."
+        },
+        {
+            "id": "reward-14",
+            "content": "Your team solved the bug, all players move one space forward."
+        },
+        {
+            "id": "reward-15",
+            "content": "You completed your tasks for the day in a timely manner, move forward 3 cells."
+        },
+        {
+            "id": "reward-16",
+            "content": "You successfully notified the developers about a bug and suggested a possible solution, you can advance to the place where the next player is and the players ahead of you lose a turn."
+        },
+        {
+            "id": "reward-17",
+            "content": "Your inner team solved the quests earlier than expected. You and a player of your choice will advance 2 squares."
+        },
+        {
+            "id": "reward-18",
+            "content": "You fixed a difficult bug that was slowing down the project. You can roll dices again."
+        },
+        {
+            "id": "reward-19",
+            "content": "Your team solved the bug, all players move one space forward."
+        },
+        {
+            "id": "reward-20",
+            "content": "You were an early bird, congrats! You move forward 3 squares. "
+        }
+    ],
+    "punishments": [
+        {
+            "id": "punishment-1",
+            "content": "You arrived late to the daily scrum meeting. You must get back 2 squares to think about what you did."
+        },
+        {
+            "id": "punishment-2",
+            "content": "You accidentally deleted the database. You must lose a turn to rebuild the database."
+        },
+        {
+            "id": "punishment-3",
+            "content": "You got assigned a new bug. You lose a turn to solve it."
+        },
+        {
+            "id": "punishment-4",
+            "content": "You didn’t follow the agile methodology as you were supposed to. We will give you some time to check it again, you must get back 2 squares."
+        },
+        {
+            "id": "punishment-5",
+            "content": "Your deploy got delayed. You must get back 3 squares."
+        },
+        {
+            "id": "punishment-6",
+            "content": "You didn’t listen carefully to the client’s requirements. To fulfill the requirements, you must lose 1 turn."
+        },
+        {
+            "id": "punishment-7",
+            "content": "You weren’t being a team player with your coworkers. To make amends you exchange places with the player immediately after you."
+        },
+        {
+            "id": "punishment-8",
+            "content": "You didn’t communicate on time and that made the project delayed. You get back 3 squares."
+        },
+        {
+            "id": "punishment-9",
+            "content": "You had the chance to ask for help but you didn’t, so that made the story delayed. You get back 2 squares."
+        },
+        {
+            "id": "punishment-10",
+            "content": "Your time estimation was wrong. You need 1 extra turn to complete your story. You lose 1 turn."
+        },
+        {
+            "id": "punishment-11",
+            "content": "Are you trying to leave an important task for tomorrow? Think twice, that could delay the team's progress. You get back 3 squares."
+        },
+        {
+            "id": "punishment-12",
+            "content": "You forgot to document when you were fixing a bug and your computer crashed, losing all the progress you had. You need to dance “La Pelusa” for punishment (or lose 2 turns)."
+        },
+        {
+            "id": "punishment-13",
+            "content": "You went on vacation even though you were not approved, and you didn’t make it to the sprint. You lose 1 turn."
+        },
+        {
+            "id": "punishment-14",
+            "content": "After taking an extra work shift trying to solve a major problem, you went home tired and fell asleep. You missed your alarm clock causing you to fail to arrive at work. You lose 1 turn."
+        },
+        {
+            "id": "punishment-15",
+            "content": "The bugs were stronger than you today, maybe tomorrow you’ll beat them. For now, move back 1 square."
+        },
+        {
+            "id": "punishment-16",
+            "content": "Your team has not completed the task, all the players move back one square."
+        },
+        {
+            "id": "punishment-17",
+            "content": "You left the test to the end and this caused the development time to lengthen. You lose 1 turn to work on it."
+        },
+        {
+            "id": "punishment-18",
+            "content": "You did not communicate during the daily meeting that you had an impediment to do a task so you didn’t finish the task on time. Get back 4 squares."
+        },
+        {
+            "id": "punishment-19",
+            "content": "You worked more hours than allowed. Take a break for one turn. "
+        },
+        {
+            "id": "punishment-20",
+            "content": "You mixed up “bug” as “insect” and that causes your team to have confusions. To clear your head, you must go back 2 squares."
+        }
+    ]
+}

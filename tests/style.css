@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Righteous;
+    src: url('./Righteous-Regular.ttf');
+}
+
+p, h2 {
+    font-family: 'Righteous', cursive;
+    color: white;
+    text-align: center;
+}
+
+.card {
+    background-color: black;
+    border: 10px solid red;
+}

@@ -1,0 +1,78 @@
+@font-face {
+    font-family: Righteous;
+    src: url('./Righteous-Regular.ttf');
+}
+
+body {
+    background-color: gray;
+}
+
+.card {
+    position: relative;
+    background-color: black;
+    width: 349px;
+    height: 455px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 1rem;
+}
+
+.reward {
+    border: 8px solid rgb(24, 65, 122);
+    border-radius: 25px;
+}
+
+.punishment {
+    border: 8px solid rgb(121, 31, 31);
+    border-radius: 25px;
+}
+
+.h1-front {
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Righteous', cursive;
+
+}
+
+.h1-back {
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Righteous', cursive;
+}
+
+.card-content {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* adjust to the height of your container */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+.canvas {
+    position: relative;
+    border-radius: 25px;
+    width: 349px;
+    height: 455px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 1rem;
+}
+
+.img {
+    margin: 1rem;
+    width: 120px;
+    height: 120px;
+}
